@@ -7,9 +7,9 @@ public class Ejercicio5 {
     
     public static void main(String[] args) {
         int d;
-        String temp;
-        temp=JOptionPane.showInputDialog("Que tabla de multiplicar vas a utilizar");
-        d=Integer.parseInt(temp);
+        String val;
+        val=JOptionPane.showInputDialog("Digite el numero de la tabla de multiplicar vas a utilizar");
+        d=Integer.parseInt(val);
         JOptionPane.showMessageDialog(null,tabla(12,d));       
     }
     
