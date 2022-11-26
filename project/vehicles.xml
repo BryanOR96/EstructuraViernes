@@ -1,0 +1,162 @@
+<java>
+	<Object class = "main.SaveableListModel">
+		<id>1</id>
+			<int>7</int>
+			<Object class = "main.Vehicle">
+				<id>2</id>
+					<String length = "7">
+						"TDA2204"
+					</String> 
+					<String length = "10">
+						"Mitsubishy"
+					</String> 
+					<String length = "6">
+						"Lancer"
+					</String> 
+					<String length = "5">
+						"negro"
+					</String> 
+					<int>750</int>
+					<int>4</int>
+					<int>0</int>
+					<double>22.5</double>
+					<String length = "0">
+						""
+					</String> 
+			</Object> 
+			<Object class = "main.Vehicle">
+				<id>3</id>
+					<String length = "7">
+						"RIF2203"
+					</String> 
+					<String length = "5">
+						"Honda"
+					</String> 
+					<String length = "5">
+						"Civic"
+					</String> 
+					<String length = "4">
+						"azul"
+					</String> 
+					<int>1500</int>
+					<int>4</int>
+					<int>0</int>
+					<double>25.0</double>
+					<String length = "26">
+						"cargador
+arranca sin llave"
+					</String> 
+			</Object> 
+			<Object class = "main.Vehicle">
+				<id>4</id>
+					<String length = "4">
+						"PP45"
+					</String> 
+					<String length = "9">
+						"Chevrolet"
+					</String> 
+					<String length = "8">
+						"Corvette"
+					</String> 
+					<String length = "5">
+						"negro"
+					</String> 
+					<int>2000</int>
+					<int>2</int>
+					<int>0</int>
+					<double>120.5</double>
+					<String length = "20">
+						"cargador inalambrico"
+					</String> 
+			</Object> 
+			<Object class = "main.Vehicle">
+				<id>5</id>
+					<String length = "7">
+						"CDD7601"
+					</String> 
+					<String length = "4">
+						"Ford"
+					</String> 
+					<String length = "4">
+						"F550"
+					</String> 
+					<String length = "8">
+						"plateado"
+					</String> 
+					<int>1500</int>
+					<int>4</int>
+					<int>1</int>
+					<double>90.0</double>
+					<String length = "0">
+						""
+					</String> 
+			</Object> 
+			<Object class = "main.Vehicle">
+				<id>6</id>
+					<String length = "6">
+						"STS001"
+					</String> 
+					<String length = "4">
+						"ford"
+					</String> 
+					<String length = "4">
+						"2001"
+					</String> 
+					<String length = "5">
+						"negro"
+					</String> 
+					<int>1000</int>
+					<int>5</int>
+					<int>0</int>
+					<double>230.0</double>
+					<String length = "0">
+						""
+					</String> 
+			</Object> 
+			<Object class = "main.Vehicle">
+				<id>7</id>
+					<String length = "6">
+						"000000"
+					</String> 
+					<String length = "0">
+						""
+					</String> 
+					<String length = "0">
+						""
+					</String> 
+					<String length = "5">
+						"negro"
+					</String> 
+					<int>0</int>
+					<int>0</int>
+					<int>0</int>
+					<double>0.0</double>
+					<String length = "0">
+						""
+					</String> 
+			</Object> 
+			<Object class = "main.Vehicle">
+				<id>8</id>
+					<String length = "6">
+						"000000"
+					</String> 
+					<String length = "0">
+						""
+					</String> 
+					<String length = "0">
+						""
+					</String> 
+					<String length = "5">
+						"negro"
+					</String> 
+					<int>0</int>
+					<int>0</int>
+					<int>0</int>
+					<double>0.0</double>
+					<String length = "0">
+						""
+					</String> 
+			</Object> 
+	</Object> 
+
+</java>

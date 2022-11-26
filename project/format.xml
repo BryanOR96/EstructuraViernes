@@ -1,0 +1,31 @@
+<java>
+	<Object class = "StringDB.DBFormat">
+		<id>1</id>
+			<String length = "8">
+				"clientes"
+			</String> 
+			<int>5</int>
+			<String length = "2">
+				"ID"
+			</String> 
+			<int>20</int>
+			<String length = "6">
+				"Nombre"
+			</String> 
+			<int>150</int>
+			<String length = "19">
+				"fecha de nacimiento"
+			</String> 
+			<int>12</int>
+			<String length = "5">
+				"email"
+			</String> 
+			<int>50</int>
+			<String length = "9">
+				"Categoria"
+			</String> 
+			<int>1</int>
+			<int>0</int>
+	</Object> 
+
+</java>
